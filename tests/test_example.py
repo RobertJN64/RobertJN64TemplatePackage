@@ -14,4 +14,4 @@ def test_file():
 
 def test_tabulate(capture_stdout):
     project.printTable()
-    assert capture_stdout['stdout'] == '  a    b    c\n---  ---  ---\n  1    2    3'
+    assert capture_stdout['stdout'] == '  a    b    c\n---  ---  ---\n  1    2    3\n'
