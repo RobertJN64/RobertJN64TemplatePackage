@@ -1,6 +1,8 @@
 # RobertJN64TemplatePackage
 
 ![Tests Badge](https://github.com/RobertJN64/RobertJN64TemplatePackage/actions/workflows/tests.yml/badge.svg)
+![Python Version Badge](https://img.shields.io/pypi/pyversions/MLVisualizationTools)
+![License Badge](https://img.shields.io/github/license/RobertJN64/RobertJN64TemplatePackage)
 
 This is a template for the structure of my future projects.
 
