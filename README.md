@@ -1,5 +1,7 @@
 # RobertJN64TemplatePackage
 
+![Tests Badge](https://github.com/RobertJN64/RobertJN64TemplatePackage/actions/workflows/tests.yml/badge.svg)
+
 This is a template for the structure of my future projects.
 
 This project was inspired by the [PyPA sample project](https://github.com/pypa/sampleproject)
