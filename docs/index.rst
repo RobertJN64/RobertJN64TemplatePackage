@@ -15,6 +15,7 @@ Modules
 
 .. autosummary::
    :toctree: modules
+
    RobertJN64TemplatePackage
 
 .. toctree::
