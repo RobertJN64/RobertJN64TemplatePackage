@@ -3,7 +3,6 @@
 ![Tests Badge](https://github.com/RobertJN64/RobertJN64TemplatePackage/actions/workflows/tests.yml/badge.svg)
 ![Python Version Badge](https://img.shields.io/pypi/pyversions/RobertJN64TemplatePackage)
 ![License Badge](https://img.shields.io/github/license/RobertJN64/RobertJN64TemplatePackage)
-[![Documentation Status](https://readthedocs.org/projects/robertjn64templatepackage/badge/?version=latest)](https://robertjn64templatepackage.readthedocs.io/en/latest/?badge=latest)
 
 
 This is a template for the structure of my future projects.
