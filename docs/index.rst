@@ -10,11 +10,11 @@ and `James Murphey's sample project <https://github.com/mCodingLLC/SlapThatLikeB
 These projects were licensed under the MIT license and the relevant licenses
 can be found in the attributions folder in the project.
 
-Modules
-=======
 
 .. autosummary::
-   :toctree: modules
+   :toctree: _autosummary
+
+   :recursive:
 
    RobertJN64TemplatePackage
 
