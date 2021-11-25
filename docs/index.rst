@@ -10,21 +10,17 @@ and `James Murphey's sample project <https://github.com/mCodingLLC/SlapThatLikeB
 These projects were licensed under the MIT license and the relevant licenses
 can be found in the attributions folder in the project.
 
-.. automodule:: RobertJN64TemplatePackage.__init__
-    :members:
+Modules
+=======
+
+.. autosummary::
+   :toctree: modules
+   RobertJN64TemplatePackage
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 .. |tests-badge| image:: https://github.com/RobertJN64/RobertJN64TemplatePackage/actions/workflows/tests.yml/badge.svg
     :alt: Tests Badge
