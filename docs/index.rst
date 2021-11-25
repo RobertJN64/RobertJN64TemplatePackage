@@ -13,7 +13,7 @@ can be found in the attributions folder in the project.
 
 .. autosummary::
    :toctree: _autosummary
-
+   :template: custom-module-template.rst
    :recursive:
 
    RobertJN64TemplatePackage
