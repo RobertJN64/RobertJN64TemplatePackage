@@ -5,7 +5,7 @@ This code here has some functions that we will call in our tests.
 import os.path as path
 
 
-def add(a: int, b: int):
+def add(a: int, b: int) -> int:
     """
     A simple function for adding 2 numbers
 
@@ -21,7 +21,7 @@ def error() -> None:
     """
     raise Exception("HELP THIS IS AN ERROR")
 
-def openFile():
+def openFile() -> str:
     """
     Opens the file 'afile.txt'
 
@@ -30,7 +30,7 @@ def openFile():
     with open(path.dirname(__file__) + '/afile.txt') as f:
         return f.read().strip('\n')
 
-def printTable():
+def printTable() -> None:
     """
     Uses the tabulate module to print a table
     """
