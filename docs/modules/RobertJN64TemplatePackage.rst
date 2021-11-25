@@ -1,32 +1,10 @@
-RobertJN64TemplatePackage
-=========================
+RobertJN64TemplatePackage package
+=================================
+
+Module contents
+---------------
 
 .. automodule:: RobertJN64TemplatePackage
-
-   
-   
-   
-
-   
-   
-   .. rubric:: Functions
-
-   .. autosummary::
-   
-      add
-      error
-      openFile
-      printTable
-   
-   
-
-   
-   
-   
-
-   
-   
-   
-
-
-
+   :members:
+   :undoc-members:
+   :show-inheritance:
