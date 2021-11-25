@@ -1,8 +1,3 @@
-.. RobertJN64TemplatePackage documentation master file, created by
-   sphinx-quickstart on Thu Nov 25 11:37:41 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 RobertJN64TemplatePackage Documentation
 =====================================================
 
@@ -14,6 +9,9 @@ This project was inspired by the `PyPA sample project <https://github.com/pypa/s
 and `James Murphey's sample project <https://github.com/mCodingLLC/SlapThatLikeButton-TestingStarterProject>`_.
 These projects were licensed under the MIT license and the relevant licenses
 can be found in the attributions folder in the project.
+
+.. automodule:: RobertJN64TemplatePackage.__init__
+    :members:
 
 .. toctree::
    :maxdepth: 2
