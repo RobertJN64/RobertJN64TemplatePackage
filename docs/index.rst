@@ -22,9 +22,6 @@ can be found in the attributions folder in the project.
    :maxdepth: 2
    :caption: Contents:
 
-    index
-
-
 .. |tests-badge| image:: https://github.com/RobertJN64/RobertJN64TemplatePackage/actions/workflows/tests.yml/badge.svg
     :alt: Tests Badge
 
